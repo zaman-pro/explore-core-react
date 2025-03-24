@@ -6,7 +6,7 @@ export default function Phone({ phone }) {
         border: "2px solid green",
         borderRadius: "20px",
         marginTop: "20px",
-        color: "gold",
+        color: "skyblue",
       }}
     >
       <h3>Name: {brand}</h3>
